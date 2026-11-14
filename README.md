@@ -1,15 +1,15 @@
-# Deep Water Stars for T3 Code
+# Stargazer for T3 Code
 
 A calm night-sky theme for [T3 Code](https://github.com/pingdotgg/t3code). A deep blue gradient sits behind the whole app, faint pixel stars twinkle beside your chat, and every few seconds one of the twelve star signs draws itself line by line in the empty space next to the conversation, shows its name, and fades out again.
 
-![Deep Water Stars preview](preview.png)
+![Stargazer preview](preview.png)
 
 ## Install
 
-1. Download [`deep-water-stars.json`](deep-water-stars.json). On the file page, use the download button, or save the **Raw** view.
+1. Download [`stargazer.json`](stargazer.json). On the file page, use the download button, or save the **Raw** view.
 2. In T3 Code, open **Settings → Appearance** and click **Add a theme**.
-3. Drop `deep-water-stars.json` into the box, or paste its contents, and add it.
-4. Pick **Deep Water Stars** for the dark half of the color scheme, and switch T3 Code to dark mode (or System, if your OS is in dark mode).
+3. Drop `stargazer.json` into the box, or paste its contents, and add it.
+4. Pick **Stargazer** for the dark half of the color scheme, and switch T3 Code to dark mode (or System, if your OS is in dark mode).
 
 The whole theme, including the animations, lives in that one file.
 
